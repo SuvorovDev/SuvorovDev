@@ -2,7 +2,7 @@
 
 Frontend Developer from Saint-P 🏛️
 
-- :rocket: &nbsp;I'm a heavy Linux user
+- :penguin: &nbsp;I'm a heavy Linux user
 - :keyboard: &nbsp;Ergonomic keyboards enthusiast
 - :seedling: &nbsp;Currently learning Lua for writing NeoVim plugins for better configuration management
 
@@ -149,7 +149,7 @@ Frontend Developer from Saint-P 🏛️
   </tr> 
 </table>
 
-## 📬 Contact
+## 📬 How to reach me
 
 - :bird: &nbsp;**[VK](https://vk.com/suvorovdev)**
 - :airplane: &nbsp;**[Telegram](https://t.me/SuvorovDev)**
